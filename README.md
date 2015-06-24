@@ -108,6 +108,7 @@
 * Visionary Product Owner `VPO`
 * Visual Jockey `VJ`
 * Volunteer Frameset Endorser `VFE`
+* Weaver of Dreams `WOD`
 * Webmaster `WM`
 * Website Building Warrior `WBW`
 * WiFi Wires Shop Owner `WWSO`
